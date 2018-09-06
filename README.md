@@ -1,1 +1,1 @@
-# chaojiwangyuanjing
+# 超级望远镜项目包括3D模型，设计图纸和组装指南。
